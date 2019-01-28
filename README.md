@@ -1,5 +1,5 @@
 # sta141a
-##Stat141a projects
+## Stat141a projects
 
 * HW1 - Anaylze U.S. Department of Education's College Scorecard Data
 * HW2 - Data Mining of San Francisco Bay Area Housing Sales Data
