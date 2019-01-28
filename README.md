@@ -7,4 +7,4 @@
 * Final_Project - Image Classification
 
 
-ps: Reports for HW1 and HW2 is missing.
+PS: Reports for HW1 and HW2 is missing.
